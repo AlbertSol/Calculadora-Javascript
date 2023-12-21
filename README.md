@@ -1,4 +1,4 @@
-# Practica de Git con Ramas
+# Práctica de Git con Ramas
 ![OctoCat](https://octodex.github.com/images/Fintechtocat.png)
 
  1. *Git* **add**
